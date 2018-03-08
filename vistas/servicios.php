@@ -45,47 +45,42 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
+            <figure class="imagen1">
+            	
+            </figure>
             <h2 class="text-center">Estructural</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p>Elaboración de todo tipo de disño y analisis estructural para obra civil, e industrial, memorias de cálculo, firma de perito responsable de obras.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
+            <figure class="imagen2">
+            	
+            </figure>
             <h2 class="text-center">Interiores</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p>Asesoria y deseño de interiores en casa-habitación o comercios, empleando las mejores técnicas.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
+            <figure class="imagen3">
+            	
+            </figure>
             <h2 class="text-center">Planos</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p>Elaboración de todo tipo de dibujos y planos en CAD(arquitectónicos, eléctricos, estructurales, para obras públicas y de presentación.</p>
           </div>
         </div> <br><br>
 
         <div class="row">
           <div class="col-md-4 col-md-offset-2">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
+            <figure class="imagen4">
+            	
+            </figure>
             <h2 class="text-center">Arquitectonico</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p>Elaboración de todo tipo de proyectos arquitectónicos, buscando optimar al máximo los espacios, respetando la forma y crecimiento actual de la vivienda, creando diseños adecuados a las necesidades y economía de cada ususario.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
+            <figure class="imagen5">
+            	
+            </figure>
             <h2 class="text-center">Render</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p>Elaboración de todo tipo de dibujos, proyectos, fachadas, fotomontaje y de presentación en 3 dimensiones con calidad fotográfica.</p>
           </div>
 
         </div>
@@ -99,47 +94,42 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
+            <figure class="imagen6">
+            	
+            </figure>
             <h2 class="text-center">Supervisión</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p>Supervisión, asesoría y ejecución de todo tipo de obras de construcción civil comercial, llave en mano o por administración.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
+            <figure class="imagen7">
+            	
+            </figure>
             <h2 class="text-center">Asesoría</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p>Brindamos el mejor sistema de administración de obra profesional, ya que el cliente puede y tiene el control y responsabilidad total sobre el manejo del dinero destinado para la obra, ya que se le brinda la posibilidad de eligir, comprar y pagar directamente los materiales y la mano obra, con este sistema el cliente decide qué calidad, marca y precios quiere pagar por sus materiales.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
+            <figure class="imagen8">
+            	
+            </figure>
             <h2 class="text-center">Habitacional</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p>Supervisión, asesoría y ejecución de todo tipo de obras de construcción civil habitacional, llave en mano o por administración.</p>
           </div>
         </div> <br><br>
 
         <div class="row">
           <div class="col-md-4 col-md-offset-2">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
+            <figure class="imagen9">
+            	
+            </figure>
             <h2 class="text-center">Comercial</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p>Supervisión, asesoria y ejecución de todo tipo de obras de construcción civil comercial, llave en mano o por administración.</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
+            <figure class="imagen10">
+            	
+            </figure>
             <h2 class="text-center">Remodelación</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p>Remodelaciones ejecución asesoría y supervisión de todo tipo de remodelaciones y ampliaciones residenciales, comerciales e industriales.</p>
           </div>
         </div>
 
