@@ -110,6 +110,7 @@ footer{
 	height: 100px;
 	/*font-size: 20px;*/
 	overflow: hidden;
+	clear: both;
 }
 footer p{
 	width: 100%;
