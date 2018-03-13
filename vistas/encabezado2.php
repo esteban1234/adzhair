@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	
+	<meta name="google-site-verification" content="EKNaTmf8RbXcQuFN_OgJ0FTY3iOsf30uA9flFIfGf_s" />
 	<link rel="icon" type="image/png" href="../img/favicon.png" />
 	<title>COMERCIALIZADORA DE MAYOREO ADZHAIR </title>
 	 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
@@ -16,6 +16,4 @@
 	<link rel="stylesheet" href="../css/estilos.css">
 	<link rel="stylesheet" href="../css/responsivo.css">
 	<script src="../js/general.js"></script>
-	<!-- <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet"> -->
-	<!-- <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans|Oswald|Roboto|Roboto+Condensed" rel="stylesheet"> -->
 </head>
