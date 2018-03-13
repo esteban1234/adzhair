@@ -12,16 +12,14 @@
 			<li>Planos</li>
 			<li>Ingenieria</li>
 		</div>
-	</article>
-
-	
+	</article>	
 </article>
 
 <figure class="logo">
 	<img src="img/adzhair.png" alt="ADZHAIR" class="img-responsive">
 </figure>
 
-<div class="menu">
+<div class="menu menu-responsive">
 	<ul>
 		<a class="selector" id="select" href="index.php">INICIO</a>
 		<a class="selector" href="vistas/nosotros.php">NOSOTROS</a>

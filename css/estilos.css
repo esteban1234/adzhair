@@ -35,6 +35,11 @@
 }
 
 /*--------------encabezado--------------*/
+
+.op-menu{
+    display: none;
+}
+
 .encabezado{
 	/*outline: 2px red solid;*/
 	width: 100%;
